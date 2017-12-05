@@ -180,7 +180,7 @@
                                     </div>
 
                                     <p class="animation delay1 bounceInRight">
-                                        "Ao seu lado descobrir o verdadeiro significado da felicidade." (Lorrana Fortaleza)
+                                        "Ao seu lado descobri o verdadeiro significado da felicidade." (Lorrana Fortaleza)
                                     </p>
                                 </div>
 
