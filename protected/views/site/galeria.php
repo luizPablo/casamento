@@ -167,7 +167,7 @@
                 <div class="photo-item animation fadeIn">
 
                     <!--PHOTO-->
-                    <img src="/images/gallery-1.jpg" alt="" class="hover-animation image-zoom-in">
+                    <img src="/images/lp/1.jpeg" alt="" class="hover-animation image-zoom-in">
 
                     <!--PHOTO OVERLAY-->
                     <div class="layer wh100 hidden-black-overlay hover-animation fade-in">
@@ -178,13 +178,13 @@
                         <div class="alignment">
                             <div class="v-align center-middle">
 
-                                <a href="/images/attachment-1.jpg" class="magnific-zoom-gallery" title="Gallery-1">
+                                <a href="/images/lp/1.jpeg" class="magnific-zoom-gallery" title="Gallery-1">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-zoom-in"></i>
                                     </div>
                                 </a>
 
-                                <a href="attachment.html">
+                                <a href="#">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-link"></i>
                                     </div>
@@ -206,7 +206,7 @@
                 <div class="photo-item animation fadeIn">
 
                     <!--PHOTO-->
-                    <img src="/images/gallery-2.jpg" alt="" class="hover-animation image-zoom-in">
+                    <img src="/images/lp/2.jpeg" alt="" class="hover-animation image-zoom-in">
 
                     <!--PHOTO OVERLAY-->
                     <div class="layer wh100 hidden-black-overlay hover-animation fade-in">
@@ -217,13 +217,13 @@
                         <div class="alignment">
                             <div class="v-align center-middle">
 
-                                <a href="/images/attachment-2.jpg" class="magnific-zoom-gallery" title="Gallery-2">
+                                <a href="/images/lp/2.jpeg" class="magnific-zoom-gallery" title="Gallery-2">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-zoom-in"></i>
                                     </div>
                                 </a>
 
-                                <a href="attachment.html">
+                                <a href="#">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-link"></i>
                                     </div>
@@ -245,7 +245,7 @@
                 <div class="photo-item animation fadeIn">
 
                     <!--PHOTO-->
-                    <img src="/images/gallery-3.jpg" alt="" class="hover-animation image-zoom-in">
+                    <img src="/images/lp/3.jpeg" alt="" class="hover-animation image-zoom-in">
 
                     <!--PHOTO OVERLAY-->
                     <div class="layer wh100 hidden-black-overlay hover-animation fade-in">
@@ -256,13 +256,13 @@
                         <div class="alignment">
                             <div class="v-align center-middle">
 
-                                <a href="/images/attachment-3.jpg" class="magnific-zoom-gallery" title="Gallery-3">
+                                <a href="/images/lp/3.jpeg" class="magnific-zoom-gallery" title="Gallery-3">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-zoom-in"></i>
                                     </div>
                                 </a>
 
-                                <a href="attachment.html">
+                                <a href="">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-link"></i>
                                     </div>
@@ -284,7 +284,7 @@
                 <div class="photo-item animation fadeIn">
 
                     <!--PHOTO-->
-                    <img src="/images/gallery-4.jpg" alt="" class="hover-animation image-zoom-in">
+                    <img src="/images/lp/4.jpeg" alt="" class="hover-animation image-zoom-in">
 
                     <!--PHOTO OVERLAY-->
                     <div class="layer wh100 hidden-black-overlay hover-animation fade-in">
@@ -295,13 +295,13 @@
                         <div class="alignment">
                             <div class="v-align center-middle">
 
-                                <a href="/images/attachment-4.jpg" class="magnific-zoom-gallery" title="Gallery-4">
+                                <a href="/images/lp/4.jpeg" class="magnific-zoom-gallery" title="Gallery-4">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-zoom-in"></i>
                                     </div>
                                 </a>
 
-                                <a href="attachment.html">
+                                <a href="#">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-link"></i>
                                     </div>
@@ -323,7 +323,7 @@
                 <div class="photo-item animation fadeIn">
 
                     <!--PHOTO-->
-                    <img src="/images/gallery-5.jpg" alt="" class="hover-animation image-zoom-in">
+                    <img src="/images/lp/5_2.jpeg" alt="" class="hover-animation image-zoom-in">
 
                     <!--PHOTO OVERLAY-->
                     <div class="layer wh100 hidden-black-overlay hover-animation fade-in">
@@ -334,13 +334,13 @@
                         <div class="alignment">
                             <div class="v-align center-middle">
 
-                                <a href="/images/attachment-5.jpg" class="magnific-zoom-gallery" title="Gallery-5">
+                                <a href="/images/lp/5_2.jpeg" class="magnific-zoom-gallery" title="Gallery-5">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-zoom-in"></i>
                                     </div>
                                 </a>
 
-                                <a href="attachment.html">
+                                <a href="#">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-link"></i>
                                     </div>
@@ -362,7 +362,7 @@
                 <div class="photo-item animation fadeIn">
 
                     <!--PHOTO-->
-                    <img src="/images/gallery-6.jpg" alt="" class="hover-animation image-zoom-in">
+                    <img src="/images/lp/6.jpeg" alt="" class="hover-animation image-zoom-in">
 
                     <!--PHOTO OVERLAY-->
                     <div class="layer wh100 hidden-black-overlay hover-animation fade-in">
@@ -373,13 +373,13 @@
                         <div class="alignment">
                             <div class="v-align center-middle">
 
-                                <a href="/images/attachment-6.jpg" class="magnific-zoom-gallery" title="Gallery-6">
+                                <a href="/images/lp/6.jpeg" class="magnific-zoom-gallery" title="Gallery-6">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-zoom-in"></i>
                                     </div>
                                 </a>
 
-                                <a href="attachment.html">
+                                <a href="#">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-link"></i>
                                     </div>
@@ -401,7 +401,7 @@
                 <div class="photo-item animation fadeIn">
 
                     <!--PHOTO-->
-                    <img src="/images/gallery-7.jpg" alt="" class="hover-animation image-zoom-in">
+                    <img src="/images/lp/7.jpeg" alt="" class="hover-animation image-zoom-in">
 
                     <!--PHOTO OVERLAY-->
                     <div class="layer wh100 hidden-black-overlay hover-animation fade-in">
@@ -412,13 +412,13 @@
                         <div class="alignment">
                             <div class="v-align center-middle">
 
-                                <a href="/images/attachment-7.jpg" class="magnific-zoom-gallery" title="Gallery-7">
+                                <a href="/images/lp/7.jpeg" class="magnific-zoom-gallery" title="Gallery-7">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-zoom-in"></i>
                                     </div>
                                 </a>
 
-                                <a href="attachment.html">
+                                <a href="#">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-link"></i>
                                     </div>
@@ -440,7 +440,7 @@
                 <div class="photo-item animation fadeIn">
 
                     <!--PHOTO-->
-                    <img src="/images/gallery-8.jpg" alt="" class="hover-animation image-zoom-in">
+                    <img src="/images/lp/8_3.jpeg" alt="" class="hover-animation image-zoom-in">
 
                     <!--PHOTO OVERLAY-->
                     <div class="layer wh100 hidden-black-overlay hover-animation fade-in">
@@ -451,13 +451,13 @@
                         <div class="alignment">
                             <div class="v-align center-middle">
 
-                                <a href="/images/attachment-8.jpg" class="magnific-zoom-gallery" title="Gallery-8">
+                                <a href="/images/lp/8_3.jpeg" class="magnific-zoom-gallery" title="Gallery-8">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-zoom-in"></i>
                                     </div>
                                 </a>
 
-                                <a href="attachment.html">
+                                <a href="#">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-link"></i>
                                     </div>
@@ -479,7 +479,7 @@
                 <div class="photo-item animation fadeIn">
 
                     <!--PHOTO-->
-                    <img src="/images/gallery-9.jpg" alt="" class="hover-animation image-zoom-in">
+                    <img src="/images/lp/9_2.jpeg" alt="" class="hover-animation image-zoom-in">
 
                     <!--PHOTO OVERLAY-->
                     <div class="layer wh100 hidden-black-overlay hover-animation fade-in">
@@ -490,13 +490,13 @@
                         <div class="alignment">
                             <div class="v-align center-middle">
 
-                                <a href="/images/attachment-9.jpg" class="magnific-zoom-gallery" title="Gallery-9">
+                                <a href="/images/lp/9_2.jpeg" class="magnific-zoom-gallery" title="Gallery-9">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-zoom-in"></i>
                                     </div>
                                 </a>
 
-                                <a href="attachment.html">
+                                <a href="#">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-link"></i>
                                     </div>
@@ -518,7 +518,7 @@
                 <div class="photo-item animation fadeIn">
 
                     <!--PHOTO-->
-                    <img src="/images/gallery-10.jpg" alt="" class="hover-animation image-zoom-in">
+                    <img src="/images/lp/10.jpeg" alt="" class="hover-animation image-zoom-in">
 
                     <!--PHOTO OVERLAY-->
                     <div class="layer wh100 hidden-black-overlay hover-animation fade-in">
@@ -529,13 +529,13 @@
                         <div class="alignment">
                             <div class="v-align center-middle">
 
-                                <a href="/images/attachment-10.jpg" class="magnific-zoom-gallery" title="Gallery-10">
+                                <a href="/images/lp/10.jpeg" class="magnific-zoom-gallery" title="Gallery-10">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-zoom-in"></i>
                                     </div>
                                 </a>
 
-                                <a href="attachment.html">
+                                <a href="#">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-link"></i>
                                     </div>
@@ -557,7 +557,7 @@
                 <div class="photo-item animation fadeIn">
 
                     <!--PHOTO-->
-                    <img src="/images/gallery-11.jpg" alt="" class="hover-animation image-zoom-in">
+                    <img src="/images/lp/11.jpeg" alt="" class="hover-animation image-zoom-in">
 
                     <!--PHOTO OVERLAY-->
                     <div class="layer wh100 hidden-black-overlay hover-animation fade-in">
@@ -568,13 +568,13 @@
                         <div class="alignment">
                             <div class="v-align center-middle">
 
-                                <a href="/images/attachment-11.jpg" class="magnific-zoom-gallery" title="Gallery-11">
+                                <a href="/images/lp/11.jpeg" class="magnific-zoom-gallery" title="Gallery-11">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-zoom-in"></i>
                                     </div>
                                 </a>
 
-                                <a href="attachment.html">
+                                <a href="#">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-link"></i>
                                     </div>
@@ -596,7 +596,7 @@
                 <div class="photo-item animation fadeIn">
 
                     <!--PHOTO-->
-                    <img src="/images/gallery-12.jpg" alt="" class="hover-animation image-zoom-in">
+                    <img src="/images/lp/12_2.jpeg" alt="" class="hover-animation image-zoom-in">
 
                     <!--PHOTO OVERLAY-->
                     <div class="layer wh100 hidden-black-overlay hover-animation fade-in">
@@ -607,13 +607,13 @@
                         <div class="alignment">
                             <div class="v-align center-middle">
 
-                                <a href="/images/attachment-12.jpg" class="magnific-zoom-gallery" title="Gallery-12">
+                                <a href="/images/lp/12_2.jpeg" class="magnific-zoom-gallery" title="Gallery-12">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-zoom-in"></i>
                                     </div>
                                 </a>
 
-                                <a href="attachment.html">
+                                <a href="#">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-link"></i>
                                     </div>
@@ -635,7 +635,7 @@
                 <div class="photo-item animation fadeIn">
 
                     <!--PHOTO-->
-                    <img src="/images/gallery-13.jpg" alt="" class="hover-animation image-zoom-in">
+                    <img src="/images/lp/13.jpeg" alt="" class="hover-animation image-zoom-in">
 
                     <!--PHOTO OVERLAY-->
                     <div class="layer wh100 hidden-black-overlay hover-animation fade-in">
@@ -646,13 +646,13 @@
                         <div class="alignment">
                             <div class="v-align center-middle">
 
-                                <a href="/images/attachment-13.jpg" class="magnific-zoom-gallery" title="Gallery-13">
+                                <a href="/images/lp/13.jpeg" class="magnific-zoom-gallery" title="Gallery-13">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-zoom-in"></i>
                                     </div>
                                 </a>
 
-                                <a href="attachment.html">
+                                <a href="#">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-link"></i>
                                     </div>
@@ -674,7 +674,7 @@
                 <div class="photo-item animation fadeIn">
 
                     <!--PHOTO-->
-                    <img src="/images/gallery-14.jpg" alt="" class="hover-animation image-zoom-in">
+                    <img src="/images/lp/14.jpeg" alt="" class="hover-animation image-zoom-in">
 
                     <!--PHOTO OVERLAY-->
                     <div class="layer wh100 hidden-black-overlay hover-animation fade-in">
@@ -685,13 +685,13 @@
                         <div class="alignment">
                             <div class="v-align center-middle">
 
-                                <a href="/images/attachment-14.jpg" class="magnific-zoom-gallery" title="Gallery-14">
+                                <a href="/images/lp/14.jpeg" class="magnific-zoom-gallery" title="Gallery-14">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-zoom-in"></i>
                                     </div>
                                 </a>
 
-                                <a href="attachment.html">
+                                <a href="#">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-link"></i>
                                     </div>
@@ -713,7 +713,7 @@
                 <div class="photo-item animation fadeIn">
 
                     <!--PHOTO-->
-                    <img src="/images/gallery-15.jpg" alt="" class="hover-animation image-zoom-in">
+                    <img src="/images/lp/15.jpeg" alt="" class="hover-animation image-zoom-in">
 
                     <!--PHOTO OVERLAY-->
                     <div class="layer wh100 hidden-black-overlay hover-animation fade-in">
@@ -724,13 +724,13 @@
                         <div class="alignment">
                             <div class="v-align center-middle">
 
-                                <a href="/images/attachment-15.jpg" class="magnific-zoom-gallery" title="Gallery-15">
+                                <a href="/images/lp/15.jpeg" class="magnific-zoom-gallery" title="Gallery-15">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-zoom-in"></i>
                                     </div>
                                 </a>
 
-                                <a href="attachment.html">
+                                <a href="#">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-link"></i>
                                     </div>
@@ -752,7 +752,7 @@
                 <div class="photo-item animation fadeIn">
 
                     <!--PHOTO-->
-                    <img src="/images/gallery-16.jpg" alt="" class="hover-animation image-zoom-in">
+                    <img src="/images/lp/16.jpeg" alt="" class="hover-animation image-zoom-in">
 
                     <!--PHOTO OVERLAY-->
                     <div class="layer wh100 hidden-black-overlay hover-animation fade-in">
@@ -763,13 +763,13 @@
                         <div class="alignment">
                             <div class="v-align center-middle">
 
-                                <a href="/images/attachment-16.jpg" class="magnific-zoom-gallery" title="Gallery-16">
+                                <a href="/images/lp/16.jpeg" class="magnific-zoom-gallery" title="Gallery-16">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-zoom-in"></i>
                                     </div>
                                 </a>
 
-                                <a href="attachment.html">
+                                <a href="#">
                                     <div class="de-icon circle light medium-size inline">
                                         <i class="de-icon-link"></i>
                                     </div>
@@ -783,6 +783,79 @@
 
             </div><!-- END of GALLERY ITEM-16 -->
 
+            <div class="masonry-col w25 animation fadeIn">
+
+                <!--PHOTO-ITEM-->
+                <div class="photo-item animation fadeIn">
+
+                    <!--PHOTO-->
+                    <img src="/images/lp/17_2.jpeg" alt="" class="hover-animation image-zoom-in">
+
+                    <!--PHOTO OVERLAY-->
+                    <div class="layer wh100 hidden-black-overlay hover-animation fade-in">
+                    </div><!--END of PHOTO OVERLAY-->
+
+                    <!--ICON LINK-->
+                    <div class="layer wh100 hidden-link hover-animation delay1 fade-in">
+                        <div class="alignment">
+                            <div class="v-align center-middle">
+
+                                <a href="/images/lp/17_2.jpeg" class="magnific-zoom-gallery" title="Gallery-16">
+                                    <div class="de-icon circle light medium-size inline">
+                                        <i class="de-icon-zoom-in"></i>
+                                    </div>
+                                </a>
+
+                                <a href="#">
+                                    <div class="de-icon circle light medium-size inline">
+                                        <i class="de-icon-link"></i>
+                                    </div>
+                                </a>
+
+                            </div>
+                        </div>
+                    </div><!--END of ICON LINK-->
+
+                </div><!--END of PHOTO-ITEM-->
+
+            </div>
+
+            <div class="masonry-col w25 animation fadeIn">
+
+                <!--PHOTO-ITEM-->
+                <div class="photo-item animation fadeIn">
+
+                    <!--PHOTO-->
+                    <img src="/images/lp/18.jpeg" alt="" class="hover-animation image-zoom-in">
+
+                    <!--PHOTO OVERLAY-->
+                    <div class="layer wh100 hidden-black-overlay hover-animation fade-in">
+                    </div><!--END of PHOTO OVERLAY-->
+
+                    <!--ICON LINK-->
+                    <div class="layer wh100 hidden-link hover-animation delay1 fade-in">
+                        <div class="alignment">
+                            <div class="v-align center-middle">
+
+                                <a href="/images/lp/18.jpeg" class="magnific-zoom-gallery" title="Gallery-16">
+                                    <div class="de-icon circle light medium-size inline">
+                                        <i class="de-icon-zoom-in"></i>
+                                    </div>
+                                </a>
+
+                                <a href="#">
+                                    <div class="de-icon circle light medium-size inline">
+                                        <i class="de-icon-link"></i>
+                                    </div>
+                                </a>
+
+                            </div>
+                        </div>
+                    </div><!--END of ICON LINK-->
+
+                </div><!--END of PHOTO-ITEM-->
+
+            </div>
 
         </div><!-- END of MASONRY GALLERY-->            
 

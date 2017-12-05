@@ -163,7 +163,7 @@
 
                 <!-- HEADING TITLE -->
                 <div class="row">
-                    <div class="col-md-offset-3 col-md-6 text-center">
+                    <div class="col-md-offset-2 col-md-8 text-center">
 
                         <div class="page-title">
                             <h1>LISTA DE PRESENTES</h1>
@@ -176,14 +176,14 @@
                             </div>
                         </div>
                         <p>
-                            O nosso maior presente sera sua presença, nao tenha duvida disso, 
-                            mas se ainda assim desejar nos presentear,
-                            os depositos e transferencias devem ser feitos para a seguinte conta:
+                            O nosso maior presente será sua presença, não tenha dúvida disso, 
+                            mas se ainda assim desejar nos presentear, deixamos uma lista de presentes na loja
+                            <strong>ESTAÇÃO TECIDOS</strong> em Currais Novos, e também tem a opção de nos ajudar com a lista que está logo abaixo, os depositos e transferências devem ser feitos para a seguinte conta da Caixa Econômica Federal, no nome de Lorrana Alya Fortaleza de Medeiros:
                         </p>
                         <p>
                             Agencia: 0805 <br>
                             Operaçao: 013 <br>
-                            Conta: 0000665-6 <br>
+                            Conta: 00033632-5 <br>
                         </p>
                         <p></p>
                         <p></p>
