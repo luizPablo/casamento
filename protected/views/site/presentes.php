@@ -193,6 +193,7 @@
                 <!-- HEADING -->
                 <div class="row">
                     <div class="col-md-12" id="lista_presentes">
+                        <h2>A lista estará aqui em breve!</h2>
                         <?php 
                             $presentes = Presente::model()->findAll();
                             foreach ($presentes as $p) {
