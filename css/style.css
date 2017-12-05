@@ -3204,6 +3204,7 @@ and (max-device-width: 1280px) {
     #nav-bar.nav-right .logo-wrapper{
         position:relative;
         float:left;	
+        margin-left: 43px;
     }
 
 
