@@ -166,7 +166,7 @@
                     <div class="col-md-offset-3 col-md-6 text-center">
 
                         <div class="page-title">
-                            <h1>CONFIRMAÇAO DE PRESENÇA</h1>
+                            <h1>CONFIRMAÇÃO DE PRESENÇA</h1>
 
                             <div class="heart-divider">
                                 <span class="grey-line"></span>
@@ -176,11 +176,7 @@
                             </div>
                         </div>
                         <p>
-                            Bla asjdklajsd
-                            asdkasd sdkfjasdf asdfnasdf asdjkfasdfjasd fasjkdfasdhfasd
-                            askldfjsdklasd fasjdfjasdfnjkasd faskdjfjkashdfjkasdçfasdfasd
-                            fasdlkfjasdklfjsad fasdjkf jkasdfklsajdf fjw fqwefo qweof wjef wqf[sdfn
-                            askldlfjdjlksd
+                            Sua presença é muito importante para nós, queremos muito que você esteja conosco compartilhando desse momento tão importante de nossas vidas. No futuro, quando estivermos nos recordando de tudo que viveremos nesse tão esperado dia, queremos também ter a lembrança de que você estava lá. 
                         </p>
                     </div>
                 </div><!-- END of HEADING TITLE -->
