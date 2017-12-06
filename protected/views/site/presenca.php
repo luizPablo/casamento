@@ -187,7 +187,7 @@
                     <div class="col-md-12">
                         <div class="row text-center">
                             <div class="col-md-12">
-                                <h3>Recebeu um convite? Confirma para nos a sua presença</h3>
+                                <h3>Recebeu um convite? Confirma para nós a sua presença</h3>
                             </div>
                             <div class="col-md-3"></div>
                             <div class="col-md-6">
