@@ -137,6 +137,7 @@
                             <li><a href="rsvp-2.html">RSVP - 2</a></li>
                             <li><a href="rsvp-3.html">RSVP - 3</a></li>-->
                             <li><a href="/site/presenca">CONFIRME SUA PRESENÇA</a></li>
+                            <li><a href="/site/mensagens">NOS ENVIE UMA MENSAGEM</a></li>
                         </ul>
                     </li>
                 </ul>

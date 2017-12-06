@@ -124,6 +124,27 @@ $(document).ready(function () {
         });
     });
     
+
+    $('#enviar').on('click', function () {
+        $.ajax({
+            type: "POST",
+            url: "/site/salvarMensagem",
+            data: {
+                'nome' : $('#msg_de').val(),
+                'msg' : $('#mensagem').val()
+            }
+        }).done(function (dRt) {
+            var retorno = $.parseJSON(dRt);
+
+            if (!retorno.erro) {
+                $('#msg_de').val('');
+                $('#mensagem').val('');
+                $('.confirmacao').show('slow');
+            } else {
+                alert("Ocorreu algum erro! Entre em contato com o noivo, ele vai solucionar o problema");
+            }    
+        });
+    });
     // 01. BROWSER AGENT FUNCTION		
     //==================================================================================
 

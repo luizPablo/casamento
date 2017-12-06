@@ -69,6 +69,27 @@ class SiteController extends Controller {
         echo json_encode($arrReturn);
     }
     
+    public function actionSalvarMensagem(){
+        $nome = $_POST['nome'];
+        $msg = $_POST['msg'];
+        
+        $arrReturn = array(
+            "erro"      => true
+        );
+        
+        $m = new Mensagem;
+        $m->nome = strtoupper($nome);
+        $m->msg = $msg;
+        
+        if($m->save()){
+            $arrReturn = array(
+                "erro"      => false
+            );
+        }
+        
+        echo json_encode($arrReturn);
+    }
+
     public function actionIndex() {
         $this->render('index');
     }
@@ -108,6 +129,9 @@ class SiteController extends Controller {
         $this->render('presenca');
     }
 
+    public function actionMensagens(){
+        $this->render('mensagens');
+    }
     /**
      * This is the action to handle external exceptions.
      */

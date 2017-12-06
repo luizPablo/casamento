@@ -3351,3 +3351,27 @@ Stack trace:
 REQUEST_URI=/favicon.ico
 HTTP_REFERER=http://local.casamento/index.php/gii/default/login
 ---
+2017/12/06 02:20:58 [error] [exception.ParseError] ParseError: syntax error, unexpected '$arrReturn' (T_VARIABLE) in /var/www/casamento/protected/controllers/SiteController.php:76
+Stack trace:
+#0 /var/www/yii/framework/web/CWebApplication.php(276): CWebApplication->createController('mensagens/')
+#1 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/mensagens')
+#2 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#3 /var/www/casamento/index.php(17): CApplication->run()
+#4 {main}
+REQUEST_URI=/site/mensagens
+---
+2017/12/06 02:22:10 [error] [php] Object of class Mensagem could not be converted to string (/var/www/yii/framework/db/schema/CDbColumnSchema.php:146)
+Stack trace:
+#0 /var/www/yii/framework/db/ar/CActiveRecord.php(809): Mensagem->insert()
+#1 /var/www/casamento/protected/controllers/SiteController.php(84): Mensagem->save()
+#2 /var/www/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionSalvarMensagem()
+#3 /var/www/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /var/www/yii/framework/web/CController.php(286): SiteController->runAction()
+#5 /var/www/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#6 /var/www/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#7 /var/www/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /var/www/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#9 /var/www/casamento/index.php(17): CWebApplication->run()
+REQUEST_URI=/site/salvarMensagem
+in /var/www/casamento/protected/controllers/SiteController.php (84)
+in /var/www/casamento/index.php (17)

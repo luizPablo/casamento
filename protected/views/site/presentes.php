@@ -140,6 +140,7 @@
                             <li><a href="rsvp-2.html">RSVP - 2</a></li>
                             <li><a href="rsvp-3.html">RSVP - 3</a></li>-->
                             <li><a href="/site/presenca">CONFIRME SUA PRESENÇA</a></li>
+                            <li><a href="/site/mensagens">NOS ENVIE UMA MENSAGEM</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -178,7 +179,7 @@
                         <p>
                             O nosso maior presente será sua presença, não tenha dúvida disso, 
                             mas se ainda assim desejar nos presentear, deixamos uma lista de presentes na loja
-                            <strong>ESTAÇÃO TECIDOS</strong> em Currais Novos, e também tem a opção de nos ajudar com a lista que está logo abaixo, os links que colocamos são apenas sugestões e não uma obrigatoriedade, como os valores são mais elevados, fizemos uma lista diferente onde vocês podem contribuir da maneira que acharem melhor. Os depositos e transferências devem ser feitos para a seguinte conta da Caixa Econômica Federal, no nome de Lorrana Alya Fortaleza de Medeiros:
+                            <strong>ESTAÇÃO TECIDOS</strong> em Currais Novos, e também tem a opção de nos ajudar com a lista que está logo abaixo, os links que colocamos são apenas sugestões e não uma obrigatoriedade, como os valores são mais elevados, fizemos uma lista diferente onde vocês podem contribuir da maneira que acharem melhor. Os depósitos e transferências devem ser feitos para a seguinte conta da Caixa Econômica Federal, no nome de Lorrana Alya Fortaleza de Medeiros:
                         </p>
                         <p>
                             Agencia: 0805 <br>
@@ -243,17 +244,6 @@
                             <div class="col-md-2"></div>
                         </div>
                     </div>
-                    
-                    <!--<div class="col-md-5">
-                        <h3>HEADING 3</h3>
-                        <p>Morbi a condimentum quam. Nullam quis quam at ex eleifend feugiat. Vivamus lacinia quam quam, ac viverra turpis pellentesque in. Mauris sollicitudin sapien risus, non sagittis velit dictum eget. Suspendisse velit lacus, pulvinar non ante ut, venenatis vehicula dolor. In hac habitasse platea dictumst. Nunc blandit egestas magna eu commodo. Donec tempor odio et nulla interdum vestibulum. In volutpat, </p>
-
-                        <h4>HEADING 4</h4>
-                        <p>Proin ut eros ante. Mauris vitae tempus sem, ac venenatis arcu. Etiam eget blandit arcu, quis consequat nunc. Nunc pulvinar vehicula pellentesque. Sed auctor scelerisque mi. Curabitur mattis consequat lacus non iaculis. </p>
-
-                        <h5>HEADING 5</h5>
-                        <p>Proin ut eros ante. Mauris vitae tempus sem, ac venenatis arcu. Etiam eget blandit arcu, quis consequat nunc. Nunc pulvinar vehicula pellentesque. Sed auctor scelerisque mi.  </p>
-                    </div>-->
                 </div><!-- END of HEADING --> 
 
             </section>
