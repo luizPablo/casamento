@@ -223,7 +223,7 @@
                 <div class="col-md-12 text-center">
 
                     <div class="page-subtitle animation fadeIn">
-                        <h2>COMO ELE PERGUTOU?</h2>
+                        <h2>COMO ELE PERGUNTOU?</h2>
                         <div class="heart-divider">
                             <span class="grey-line"></span>
                             <i class="de-icon-heart pink-heart"></i>
