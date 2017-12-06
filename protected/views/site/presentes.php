@@ -178,7 +178,7 @@
                         <p>
                             O nosso maior presente será sua presença, não tenha dúvida disso, 
                             mas se ainda assim desejar nos presentear, deixamos uma lista de presentes na loja
-                            <strong>ESTAÇÃO TECIDOS</strong> em Currais Novos, e também tem a opção de nos ajudar com a lista que está logo abaixo, os depositos e transferências devem ser feitos para a seguinte conta da Caixa Econômica Federal, no nome de Lorrana Alya Fortaleza de Medeiros:
+                            <strong>ESTAÇÃO TECIDOS</strong> em Currais Novos, e também tem a opção de nos ajudar com a lista que está logo abaixo, os links que colocamos são apenas sugestões e não uma obrigatoriedade, como os valores são mais elevados, fizemos uma lista diferente onde vocês podem contribuir da maneira que acharem melhor. Os depositos e transferências devem ser feitos para a seguinte conta da Caixa Econômica Federal, no nome de Lorrana Alya Fortaleza de Medeiros:
                         </p>
                         <p>
                             Agencia: 0805 <br>
@@ -193,12 +193,12 @@
                 <!-- HEADING -->
                 <div class="row">
                     <div class="col-md-12" id="lista_presentes">
-                        <h2>A lista estará aqui em breve!</h2>
                         <?php 
                             $presentes = Presente::model()->findAll();
                             foreach ($presentes as $p) {
                         ?>
-                        <h3 style="margin-bottom: -10px!important;"><?php echo $p->nome ?></h3>
+                        <h3 style="margin-bottom: 0px!important;"><?php echo $p->nome ?> >></h3>
+                        <a target="_blank" href="<?php echo $p->link ?>">Clique aqui e veja nossa sugestão</a>
                         <div class="row">
                             <div class="col-md-2">
                                 <a style="width: 100%!important;"  class="de-button small">

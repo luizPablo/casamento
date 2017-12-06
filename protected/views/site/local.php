@@ -293,7 +293,7 @@
                             </div>
                             <div class="interest-blurb">
                                 <span><strong>Área verde</strong></span>
-                                <p>O local dispõe de uma grande área verde, poderemos resperar um ar puro </p>
+                                <p>O local dispõe de uma grande área verde, poderemos respirar um ar puro </p>
                             </div>
                         </div>
                     </div>

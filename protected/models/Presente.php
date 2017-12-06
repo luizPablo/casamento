@@ -8,6 +8,10 @@
  * @property string $nome
  * @property double $valor
  * @property double $acumulado
+ * @property string $link
+ *
+ * The followings are the available model relations:
+ * @property Contribuinte[] $contribuintes
  */
 class Presente extends CActiveRecord
 {
@@ -29,9 +33,10 @@ class Presente extends CActiveRecord
 		return array(
 			array('nome, valor', 'required'),
 			array('valor, acumulado', 'numerical'),
+			array('link', 'safe'),
 			// The following rule is used by search().
 			// @todo Please remove those attributes that should not be searched.
-			array('idPresente, nome, valor, acumulado', 'safe', 'on'=>'search'),
+			array('idPresente, nome, valor, acumulado, link', 'safe', 'on'=>'search'),
 		);
 	}
 
@@ -43,6 +48,7 @@ class Presente extends CActiveRecord
 		// NOTE: you may need to adjust the relation name and the related
 		// class name for the relations automatically generated below.
 		return array(
+			'contribuintes' => array(self::HAS_MANY, 'Contribuinte', 'Presente_idPresente'),
 		);
 	}
 
@@ -56,6 +62,7 @@ class Presente extends CActiveRecord
 			'nome' => 'Nome',
 			'valor' => 'Valor',
 			'acumulado' => 'Acumulado',
+			'link' => 'Link',
 		);
 	}
 
@@ -81,6 +88,7 @@ class Presente extends CActiveRecord
 		$criteria->compare('nome',$this->nome,true);
 		$criteria->compare('valor',$this->valor);
 		$criteria->compare('acumulado',$this->acumulado);
+		$criteria->compare('link',$this->link,true);
 
 		return new CActiveDataProvider($this, array(
 			'criteria'=>$criteria,
