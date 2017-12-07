@@ -219,7 +219,7 @@
                             <div class="col-md-6">
                                 <?php if($p->acumulado < $p->valor) { ?>
                                 <a value="<?php echo $p->idPresente ?>" style="width: 100%!important;" class="de-button small reverse contribuir">
-                                    CONTRIBUIR
+                                    CLIQUE AQUI PARA CONTRIBUIR
                                 </a>
                                 <?php } else { ?>
                                 <a style="width: 100%!important;" class="de-button small">
