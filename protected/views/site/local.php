@@ -37,6 +37,7 @@
 </head>
 
 <body class="slider-title-page">
+    <audio autoplay="true" loop="true" src="/music/swbl.mp3"></audio>
     <!--PRELOADER-->
     <div id="preloader">
 

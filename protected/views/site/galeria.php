@@ -32,6 +32,7 @@
 </head>
 
 <body class="full-gallery-page">
+    <audio autoplay="true" loop="true" src="/music/my.mp3"></audio>
     <!--PRELOADER-->
     <div id="preloader">
 

@@ -38,6 +38,7 @@
 </head>
 
 <body>
+    <audio autoplay="true" loop="true" src="/music/tol.mp3"></audio>
     <!--PRELOADER-->
     <div id="preloader">
 

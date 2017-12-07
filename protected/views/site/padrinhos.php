@@ -32,6 +32,7 @@
 </head>
 
 <body class="no-slider-page">
+    <audio autoplay="true" loop="true" src="/music/l.mp3"></audio>
     <!--PRELOADER-->
     <div id="preloader">
 

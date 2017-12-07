@@ -33,6 +33,7 @@
 </head>
 
 <body class="slider-title-page">
+    <audio autoplay="true" loop="true" src="/music/toy.mp3"></audio>
     <!--PRELOADER-->
     <div id="preloader">
 
