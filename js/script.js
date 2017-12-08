@@ -145,6 +145,14 @@ $(document).ready(function () {
             }    
         });
     });
+
+    $('#trinta').on('click', function(){
+        $('#valorc').val(30);
+    });
+
+    $('#cinquenta').on('click', function(){
+        $('#valorc').val(50);
+    });
     // 01. BROWSER AGENT FUNCTION		
     //==================================================================================
 

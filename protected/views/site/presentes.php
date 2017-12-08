@@ -236,11 +236,21 @@
                                 <h5>Agradecemos de coraçao. Nos confirme seu nome e o valor da contribuiçao, para que possamos ter um controle: </h5>
                             </div>
                             <input type="hidden" id="id_presente">
-                            <div class="col-md-7">
-                                <input id="nomec" class="form-control" type="text" placeholder="Digite seu nome">
+                            <div class="col-md-2">
+                                <a id="trinta" style="width: 100%!important; margin-top: 0px;" class="de-button small reverse">
+                                    QUERO DAR R$ 30
+                                </a>
+                            </div>
+                            <div class="col-md-2">
+                                <a id="cinquenta" style="width: 100%!important; margin-top: 0px;" class="de-button small reverse">
+                                    QUERO DAR R$ 50
+                                </a>
+                            </div>
+                            <div class="col-md-3">
+                                <input id="valorc" class="form-control" type="number" placeholder="Digite um outro valor se preferir" style="height: 38px!important;">
                             </div>
                             <div class="col-md-5">
-                                <input id="valorc" class="form-control" type="number" placeholder="Digite o valor em reais">
+                                <input id="nomec" class="form-control" type="text" placeholder="Digite seu nome" style="height: 38px!important;">
                             </div>
                             <div class="col-md-12">
                                 <a id="cc" style="width: 100%!important;" class="de-button small reverse">
@@ -334,7 +344,7 @@
     <script src="/js/owlcarousel/owl.carousel.js"></script>
 
     <!-- Custom Core Script -->
-    <script type="text/javascript" src="/js/script.js"></script>        
+    <script type="text/javascript" src="/js/script.js?v=1.1"></script>        
     <!-- Custom Additional Script -->
     <script type="text/javascript" src="/js/main-slider-fade.js"></script>
 
